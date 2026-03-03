@@ -1,0 +1,20 @@
+1. El programa debe tener un listado de estudiantes con un código,
+    nombre y apellido del estudiante, para imprimirlo.
+2. Se podra guardar la asistencia de un estudiante identificándolo con el código,
+    y asignado la fecha de asistencia.
+3. Se debe generar una lista de los estudiantes y
+las asistencias sobre el total de dias de clase.
+    Ej:
+    1010 JUAN PEREZ  1/2  (Asistió a 1 de dos sesiones)
+    1011 JUANA PEREZ  2/2
+
+4. Se puede listar de manera individual un estudiante por código y
+    visualizar las fechas de la asistencia.
+    Ej:
+    1010 JUAN PEREZ
+    2/2/2026 ASISTIO
+    5/2/2026 NO ASISTIO
+
+5. Adicionar un estudiante a la lista con los datos código, nombre y apellido. OK
+
+
